@@ -130,7 +130,7 @@ body{
     width: 50%;
     top:0;
     right:0;
-    background-color:rgb(255, 0, 0);
+    background-color:rgb(242, 241, 241);
     transition: all .5s ease;
 
 }
@@ -144,7 +144,7 @@ body{
     width: 75%;
     top:0;
     right:0;
-    background-color:rgb(255, 0, 0);
+    background-color:rgb(255, 255, 255);
     transition: all .3s ease;
 }
 .menubar .third-span{
@@ -157,7 +157,7 @@ body{
     width: 100%;
     top:0;
     right:0;
-    background-color:rgb(255, 0, 0);
+    background-color:rgb(255, 255, 255);
     transition: all .3s ease;
 }
 .menubar:hover .second-span::before , .menubar:hover .first-span::before {
